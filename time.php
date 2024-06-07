@@ -8,6 +8,7 @@
   <a href="index.php">Home</a>
   <a href="feedback.php">Send Feedback</a>
   <a class="active" href="time.php">View current time</a>
+  <a href="about.php">About Us</a>
   </div>
   <h1>View current time</h1>
   <?PHP

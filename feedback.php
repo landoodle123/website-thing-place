@@ -10,6 +10,7 @@
       <a href="index.php">Home</a>
       <a class="active" href="feedback.php">Send Feedback</a>
       <a href="time.php">View current time</a>
+      <a href="about.php">About Us</a>
     </div>
     <h2>Submit Feedback</h2>
     <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
